@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋, I'm Krunal!
+
+About Me 🚀
+
+- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+- 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
+
