@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
 - 🔭 I’m currently working on my portfolio website.
+
+
+<br/>
+
+![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
