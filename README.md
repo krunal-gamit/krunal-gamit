@@ -41,8 +41,13 @@ Here are some ideas to get you started:
 
 <br/>
 
+<div align="center">
+ <br/>
 ![Krunal's contribution graph](https://activity-graph.herokuapp.com/graph?username=krooksgeek&theme=react-dark&hide_border=true&area=true)
 
 ![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krooksgeek&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
+
+</div>
