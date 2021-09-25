@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+![Krunal's contribution graph](https://activity-graph.herokuapp.com/graph?username=krooksgeek&theme=react-dark&hide_border=true&area=true)
+
 ![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
