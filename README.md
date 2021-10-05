@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   
 ![Krunal's contribution graph](https://activity-graph.herokuapp.com/graph?username=krooksgeek&theme=react-dark&hide_border=true&area=true)
 ![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krooksgeek&hide_border=true&sideNums=2EDDD5&background=ffffff&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+[![GitHub Streak](https://git-streak-stat-krooks.herokuapp.com?user=krooksgeek&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
