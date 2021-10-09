@@ -43,7 +43,19 @@ Here are some ideas to get you started:
 
   
 ![Krunal's contribution graph](https://activity-graph.herokuapp.com/graph?username=krooksgeek&theme=react-dark&hide_border=true&area=true)
+  
+<br/>
+
+<div align='center'>
+
 ![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&hide_border=true)
+
+<br/>
+
 [![GitHub Streak](https://git-streak-stat-krooks.herokuapp.com?user=krooksgeek&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <br />
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
+
+ </div>
