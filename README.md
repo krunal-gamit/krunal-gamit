@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![GitHub Streak](https://git-streak-stat-krooks.herokuapp.com?user=krooksgeek&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-streak-stat-krooks.herokuapp.com?user=krooksgeek&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000)](https://git.io/streak-stats)
 
 <br />
  
