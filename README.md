@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my portfolio website. <a href="https://krunalgamit.herokuapp.com">Here</a>
 
 
 <br/>
