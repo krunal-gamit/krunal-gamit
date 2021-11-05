@@ -37,12 +37,6 @@ Here are some ideas to get you started:
 - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
 - 🔭 I’m currently working on my portfolio website. <a href="https://krunalgamit.herokuapp.com">Here</a>
-
-
-<br/>
-
-  
-![Krunal's contribution graph](https://activity-graph.herokuapp.com/graph?username=krooksgeek&theme=react-dark&hide_border=true&area=true)
   
 <br/>
 
@@ -50,9 +44,6 @@ Here are some ideas to get you started:
 
 ![Krunal's github stats](https://github-readme-stats.vercel.app/api?username=krooksgeek&show_icons=true&theme=dark&hide_border=true)
 
-<br/>
-
-[![GitHub Streak](https://git-streak-stat-krooks.herokuapp.com?user=krooksgeek&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000)](https://git.io/streak-stats)
 
 <br />
  
