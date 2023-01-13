@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
 - 🔭 I’m currently working on my portfolio website. <a href="https://www.krunalgamit.me">Here</a>
   
+<!--
 <br/>
 
 <div align='center'>
@@ -46,7 +47,8 @@ Here are some ideas to get you started:
 
 
 <br />
- 
+ -->
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krooksgeek.kunal-krooksgeek)
 
  </div>
