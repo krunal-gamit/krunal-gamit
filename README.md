@@ -1,9 +1,9 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">, I'm [Krunal!](https://krunalgamit.herokuapp.com/) 
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">, I'm [Krunal!](https://krunalgamit.live/) 
 
 <a href="https://www.linkedin.com/in/krunal-gamit/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/krunalgamit_">
+<a href="https://twitter.com/krunalgamitt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:krooksgeek@gmail.com">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
-- 🔭 I’m currently working on my portfolio website. <a href="https://www.krunalgamit.me">Here</a>
+- 🔭 I’m currently working on my portfolio website. <a href="https://www.krunalgamit.live">Here</a>
   
 <!--
 <br/>
