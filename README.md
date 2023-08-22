@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 
-- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
-- 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
-- 🔭 I’m currently working on my portfolio website. <a href="https://www.krunalgamit.live">Here</a>
+- 🎓 I’m an Open-Source enthusiast & a graduate with Bachelor in Computer Science & Engineering.
+- 👨‍💻 I am passionate about Web Dev, Machine Learning, and DevOps & I enjoy learning new things. 
+- 🔭 Check my portfolio website. <a href="https://www.krunalgamit.live">Here</a>
   
 <!--
 <br/>
